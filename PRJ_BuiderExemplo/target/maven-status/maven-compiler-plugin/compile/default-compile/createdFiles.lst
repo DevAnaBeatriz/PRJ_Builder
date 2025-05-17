@@ -1,0 +1,12 @@
+builders\CarBuilder.class
+builders\Builder.class
+com\mycompany\prj_buiderexemplo\PRJ_BuiderExemplo.class
+components\GPSNavigator.class
+cars\CarType.class
+components\TripComputer.class
+cars\Manual.class
+cars\Car.class
+builders\CarManualBuilder.class
+components\Transmission.class
+director\Director.class
+components\Engine.class
